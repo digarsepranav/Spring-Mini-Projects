@@ -1,4 +1,4 @@
-package AccessModifiers.p1.p1.p2;
+package AccessModifiers.p2;
 
 public class Otherclass {
 }
